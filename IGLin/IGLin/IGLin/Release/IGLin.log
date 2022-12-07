@@ -1,0 +1,14 @@
+﻿  FlowshopgroupScheduling.cpp
+  IGLin.cpp
+g:\ejor源代码c++\iglinfinal\iglin\iglin\iglin.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglinfinal\iglin\iglin\iglin.cpp(135): warning C4018: “>=”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglinfinal\iglin\iglin\iglin.cpp(171): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+g:\ejor源代码c++\iglinfinal\iglin\iglin\iglin.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  All 856 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  IGLin.vcxproj -> G:\EJOR源代码C++\IGLinfinal\IGLin\Release\IGLin.exe

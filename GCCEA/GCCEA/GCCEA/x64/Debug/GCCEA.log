@@ -1,0 +1,30 @@
+﻿  Base.cpp
+  CCEA.cpp
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\ccea.cpp(166): warning C4101: “Span”: 未引用的局部变量
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\ccea.cpp(312): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  FlowshopgroupScheduling.cpp
+  Heu.cpp
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\heu.cpp(148): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\heu.cpp(190): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\heu.cpp(301): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  NOperator.cpp
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(81): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(169): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(179): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(395): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(438): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(475): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(485): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\gccea\gccea\gccea\noperator.cpp(496): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  Problem.cpp
+  stdafx.cpp
+  正在生成代码...
+  GCCEA.vcxproj -> G:\EJOR源代码C++\SourceCode\GCCEA\GCCEA\x64\Debug\GCCEA.exe

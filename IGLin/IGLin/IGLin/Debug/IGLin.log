@@ -1,0 +1,76 @@
+﻿  FlowshopgroupScheduling.cpp
+  Heu.cpp
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(83): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(130): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\heu.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+  IGLin.cpp
+g:\ejor源代码c++\iglin\iglin\iglin\iglin.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\iglin.cpp(136): warning C4018: “>=”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\iglin.cpp(171): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+g:\ejor源代码c++\iglin\iglin\iglin\iglin.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\iglin.cpp(234): warning C4018: “<”: 有符号/无符号不匹配
+  NOperator.cpp
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(52): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(88): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(145): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(153): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(242): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(251): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(260): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(270): warning C4018: “<=”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(288): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(313): warning C4018: “<=”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(330): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(339): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(363): warning C4018: “<=”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(382): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(391): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(420): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(446): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(460): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(462): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(480): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(482): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(508): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(512): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(513): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(518): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(519): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(521): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(523): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(534): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(539): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(571): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(577): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(595): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(615): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(627): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(632): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(668): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(673): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(708): warning C4018: “<”: 有符号/无符号不匹配
+g:\ejor源代码c++\iglin\iglin\iglin\noperator.cpp(721): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  IGLin.vcxproj -> G:\EJOR源代码C++\IGLin\IGLin\Debug\IGLin.exe
