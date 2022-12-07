@@ -1,0 +1,8 @@
+﻿  IGPan.cpp
+g:\ejor源代码c++\sourcecode\ma\ig\ig\igpan.cpp(43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\ma\ig\ig\igpan.cpp(199): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  IG.vcxproj -> G:\EJOR源代码C++\SourceCode\MA\IG\x64\Debug\IG.exe

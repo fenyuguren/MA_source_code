@@ -1,0 +1,16 @@
+﻿  TLIG.cpp
+g:\ejor源代码c++\sourcecode\tlig\tlig\tlig\tlig\tlig.cpp(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\tlig\tlig\tlig\tlig\tlig.cpp(61): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\tlig\tlig\tlig\tlig\tlig.cpp(70): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\tlig\tlig\tlig\tlig\tlig.cpp(76): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\sourcecode\tlig\tlig\tlig\tlig\tlig.cpp(138): warning C4244: “初始化”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+g:\ejor源代码c++\sourcecode\tlig\tlig\tlig\tlig\tlig.cpp(203): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  TLIG.vcxproj -> G:\EJOR源代码C++\SourceCode\TLIG\TLIG\TLIG\x64\Debug\TLIG.exe

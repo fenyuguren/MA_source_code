@@ -1,0 +1,41 @@
+﻿  Base.cpp
+  FlowshopgroupScheduling.cpp
+  Heu.cpp
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\heu.cpp(148): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\heu.cpp(190): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\heu.cpp(251): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\heu.cpp(324): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\heu.cpp(361): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\heu.cpp(372): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  IGPan.cpp
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\igpan.cpp(54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\igpan.cpp(234): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  NOperator.cpp
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(83): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(171): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(181): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(397): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(440): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(444): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(474): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(510): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(514): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(539): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(555): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(567): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(614): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(699): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(721): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(834): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+g:\ejor源代码c++\bigbenchmarktest\marlocalnotie\ig\ig\noperator.cpp(900): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Problem.cpp
+  正在生成代码...
+  IG.vcxproj -> G:\EJOR源代码C++\BigBenchmarkTest\MARLocalnoTie\IG\x64\Debug\IG.exe
